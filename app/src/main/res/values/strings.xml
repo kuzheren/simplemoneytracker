@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Бюджетник</string>
+    <string name="title_expenses">Бюджетник</string>
+    <string name="title_new_expense">Новый расход</string>
+    <string name="title_edit_expense">Изменить расход</string>
+    <string name="title_details">Детали</string>
+    <string name="title_statistics">Статистика</string>
+    <string name="action_statistics">Статистика</string>
+    <string name="stats_empty">За этот период расходов нет</string>
+
+    <string name="empty_state">Добавьте первый расход</string>
+    <string name="hint_amount">Сумма</string>
+    <string name="hint_description">Комментарий (необязательно)</string>
+    <string name="hint_date">Дата</string>
+    <string name="label_category">Категория</string>
+
+    <string name="action_save">Сохранить</string>
+    <string name="action_edit">Изменить</string>
+    <string name="action_delete">Удалить</string>
+    <string name="action_cancel">Отмена</string>
+    <string name="action_add">Добавить расход</string>
+
+    <string name="confirm_delete_title">Удалить расход?</string>
+    <string name="confirm_delete_message">Запись будет удалена без возможности восстановления.</string>
+
+    <string name="toast_saved">Расход сохранён</string>
+    <string name="toast_choose_category">Выберите категорию</string>
+
+    <string name="err_amount_empty">Введите сумму</string>
+    <string name="err_amount_invalid">Некорректное значение</string>
+    <string name="err_amount_non_positive">Сумма должна быть больше 0</string>
+
+    <string name="filter_all">Все</string>
+    <string name="all_time">Всё время</string>
+    <string name="prev_month">Предыдущий месяц</string>
+    <string name="next_month">Следующий месяц</string>
+    <string name="header_today">Сегодня</string>
+    <string name="header_yesterday">Вчера</string>
+
+    <string name="cat_food">Еда</string>
+    <string name="cat_transport">Транспорт</string>
+    <string name="cat_housing">Жильё</string>
+    <string name="cat_entertainment">Развлечения</string>
+    <string name="cat_health">Здоровье</string>
+    <string name="cat_clothing">Одежда</string>
+    <string name="cat_other">Прочее</string>
+</resources>

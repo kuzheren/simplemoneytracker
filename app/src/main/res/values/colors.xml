@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#2E7D5B</color>
+    <color name="primary_dark">#1F5B40</color>
+    <color name="primary_light">#E6F3EC</color>
+    <color name="surface">#F7F8FA</color>
+    <color name="card">#FFFFFF</color>
+    <color name="text_primary">#1A1F2B</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="divider">#E5E7EB</color>
+    <color name="expense_red">#D7263D</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+</resources>
